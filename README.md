@@ -2,4 +2,4 @@
 
 - Socks4 Proxies
 
--# Use it wisely, I will soon have plenty more
+Use it wisely, I will soon have plenty more
